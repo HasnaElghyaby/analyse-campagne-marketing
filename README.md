@@ -41,3 +41,12 @@ Fournir des recommandations basées sur les données pour améliorer :
 - l’engagement des clients
 
 - la satisfaction client
+## Resultats :
+![Image](https://github.com/user-attachments/assets/6ce73092-3ae1-4a03-a805-6c933587597d)
+
+![Image](https://github.com/user-attachments/assets/1d6b8729-bd45-4971-a4af-6a9f01fcb020)
+
+
+![Image](https://github.com/user-attachments/assets/569b0323-a984-4937-aa83-bea8e0dc6092)
+
+![Image](https://github.com/user-attachments/assets/2a571d21-23e8-4e4f-837f-b6bee7bbe4be)
